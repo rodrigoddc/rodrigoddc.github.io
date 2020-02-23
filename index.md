@@ -9,7 +9,8 @@
 
 Algumas das formações oficiais:
 
-## Licenciatura Plena em Educação Física:
+### Licenciatura Plena em Educação Física:
 Universidades Integradas de Guarulhos - FIG: 2008
-# Bacharelado em Sistemas de Informação
+
+### Bacharelado em Sistemas de Informação
 Faculdade Impacta de Tecnologia: 2016
